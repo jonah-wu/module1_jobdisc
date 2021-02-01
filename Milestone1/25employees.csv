@@ -1,0 +1,26 @@
+Names,Race,Gender,Birth Origin,Age,Education,GPA,Educational Prestige,Years of Experience,Soft Skills,Manager's Assessment Score,Military Tenure,Zip Codes,Job Tenure,Cultural Fit,Leadership Capability,Sports,Technical Aptitude,Avg Deals Closed,Undergraduate Degree,LinkedIn Score,Responsible Social Media Use,Employee Referral,HireVue Score,Arrest Record,Criminal Record,Avg Commute Time
+Willie Moorefield,Caucasian,male,Australia,32,0.458,3.91,0.48,6.3,4.56,5.58,5,94040,1.0,2.22,0.62,2,2.22,7.93,Quantitative,Very Good,Good,1,0.86,0,0,4.8
+Nathan Anderson,Asian,male,United States,24,1.845,3.799,0.45,7.9,3.19,1.34,3,94043,2.0,3.59,3.19,1,3.59,8.11,Quantitative,None,Good,1,0.55,0,0,5.45
+Sharon Pittman,Caucasian,female,Canada,31,0.935,3.976,0.67,5.1,3.59,3.54,0,94085,4.0,-1.62,3.18,0,1.62,4.97,Quantitative,Very Good,Good,1,-1.25,0,0,9.883333333333333
+Young Berg,African-American,male,United States,32,0.127,4.195,0.4,3.9,4.33,-1.2,4,94611,7.0,0.4,4.54,0,1.4,7.05,Engineering,Very Good,Good,1,0.07,1,0,52.2
+John Dancy,Caucasian,male,Canada,24,0.466,3.327,0.69,7.7,4.45,4.75,0,94501,4.0,2.0,3.27,1,0.5,11.56,Engineering,Very Good,Good,0,4.5,0,0,52.38333333333333
+Bruce Potter,Caucasian,female,Canada,32,0.324,2.75,0.55,4.0,3.37,1.55,1,94702,5.0,-0.23,2.25,0,-0.23,4.62,Quantitative,Very Good,Good,0,-2.44,0,0,57.43333333333333
+Byron Farmer,Caucasian,male,United States,25,0.08900000000000001,3.381,0.81,8.0,3.79,1.44,0,94609,5.5,-0.1,4.2,0,-0.1,2.88,Humanities,Ok,Good,0,-3.94,0,0,51.333333333333336
+Allen Porter,Caucasian,male,Canada,26,0.105,3.049,0.71,5.5,2.98,-0.88,1,94523,3.5,0.64,1.22,0,0.64,8.68,Humanities,Ok,Good,0,1.98,0,0,55.6
+Jordan Mcsweeney,Caucasian,male,Canada,25,0.29100000000000004,3.127,0.55,3.3,2.29,-1.17,0,94965,2.0,-0.2,2.56,1,-0.2,7.77,Engineering,None,Bad,0,0.05,0,0,65.11666666666666
+Kenneth Sanchez,Other,female,Australia,22,-0.155,2.688,0.17,8.3,3.3,-0.21,3,94542,3.0,-0.49,2.58,2,-0.49,8.41,Engineering,None,Good,0,-0.14,0,0,41.03333333333333
+Jack Rodriguez,Asian,male,United States,30,-0.084,2.9210000000000003,0.43,2.4,2.44,-1.31,0,94015,1.0,-0.02,1.56,0,-0.02,4.97,Quantitative,Ok,Good,1,-2.34,0,0,41.15
+Dennis Victor,Hispanic,male,Mexico,35,-0.287,3.2710000000000004,0.1,1.7,3.03,-1.1,2,94304,5.5,-0.58,2.57,0,-0.58,6.07,Humanities,Ok,Good,0,-0.56,0,0,19.133333333333333
+Jacob Morones,Caucasian,male,Australia,23,-0.022,3.3760000000000003,0.69,5.2,3.29,0.23,0,94025,4.0,-1.52,2.76,1,-1.52,6.78,Quantitative,Very Good,Bad,0,1.37,0,0,20.233333333333334
+Richard Smith,Hispanic,male,United States,29,1.236,3.099,0.83,6.5,2.69,0.68,3,94538,7.0,-2.11,2.85,2,-2.11,4.31,Engineering,Ok,Good,0,-3.69,0,0,20.316666666666666
+Marion Admire,African-American,male,United States,23,-1.503,3.366,0.21,0.5,2.22,-4.56,0,94579,0.5,0.77,2.69,2,0.77,5.24,Humanities,None,Good,0,-0.17,1,1,39.833333333333336
+James Sergent,African-American,female,United States,21,-1.673,2.904,0.55,1.4,2.48,-4.25,2,94577,4.0,0.0,0.62,0,0.5,2.59,Engineering,None,Good,0,-2.57,1,0,39.1
+Daniel Exline,Caucasian,male,United States,24,-0.895,3.156,0.5,4.2,2.54,-3.27,0,94577,5.0,-0.17,2.85,0,-0.17,8.1,Engineering,Ok,Good,0,0.89,1,0,39.1
+Brandon Hyde,Hispanic,female,United States,21,-0.7290000000000001,2.668,0.48,3.0,2.03,-4.35,0,94577,2.0,-0.11,1.58,0,-0.11,7.09,Engineering,None,Bad,0,-0.15,1,1,39.1
+Brain Valot,Caucasian,male,United States,30,0.624,2.236,0.55,8.6,2.94,0.07,0,94404,6.5,-3.81,1.26,1,-3.81,8.73,Engineering,Very Good,Good,0,2.76,0,0,29.716666666666665
+Marc Cunningham,Caucasian,male,Canada,24,-1.037,3.524,0.62,5.4,3.26,-1.84,0,94040,3.5,-1.8,0.87,2,-1.8,11.16,Quantitative,None,Bad,1,3.06,0,0,4.8
+Christopher Mayse,Caucasian,male,United States,27,0.304,2.207,0.38,5.0,2.52,-1.07,0,94043,5.0,-2.73,0.06,2,-2.73,3.86,Quantitative,Ok,Good,0,-2.13,0,0,5.45
+Frank Delisa,Caucasian,male,Canada,29,-0.311,2.705,0.9,4.7,2.13,5.61,0,94085,4.5,-1.61,0.9,1,-1.61,7.15,Engineering,Very Good,Good,0,-0.16,1,0,9.883333333333333
+Brian Dubois,Caucasian,male,Canada,22,-0.901,3.079,0.62,5.9,3.39,-1.1,0,94611,1.5,-2.47,2.59,0,-2.47,10.47,Quantitative,None,Bad,0,1.58,1,0,52.2
+Sandy Zhang,Asian,female,China,31,-0.795,3.297,0.33,2.4,2.89,-1.47,2,94501,1.0,-3.45,5.76,1,-3.45,5.03,Engineering,Ok,Bad,0,-1.63,0,0,52.38333333333333
+Aaron Hesson,Caucasian,male,United States,27,-1.988,2.72,0.71,1.3,2.52,-4.51,4,94702,0.0,-2.79,2.52,1,-2.79,4.97,Sciences,Very Good,Good,0,-1.09,0,0,57.43333333333333
